@@ -1,6 +1,6 @@
 # Privileged-Account-Management
-This is a project that aims to manage privileged accounts in a company.</br> 
-It allows accounts to be created, modified and deleted, as well as keeping a record of all activities done under each account.
+This is a project that aims to manage privileged accounts in a company. <br/>
+it allows you to create, modify, and delete accounts, as well as keep a record of all activities performed under each
 
 ## Prerequisites
 Before running the project, you must have installed on your machine:
